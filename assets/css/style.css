@@ -1380,6 +1380,9 @@ background-color: #004AF2;
 
 
 @media (max-width:767px) {
+   body {
+        background-color: #fff;
+    }
     .nav {
     padding-top: 9px;
     flex-direction: column;
